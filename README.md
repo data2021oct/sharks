@@ -12,4 +12,3 @@
    - 2.Visualiación de datos
 - 1 archivo python con las funciones utlizadas para la limpia y visualización de datos
 - 1 csv con los datos limpios
-
