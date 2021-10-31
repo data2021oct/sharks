@@ -6,7 +6,9 @@ def entero (a):
 
 def entero_if (a):
     """
-    a esta función se le pasa un float o un string, se le compara si es numerico o no y si lo es devuelve se le pasa a int.
+    a esta función se le pasa un float o un string
+    mira si el string es númerico, y si lo es lo convierte a int
+    si no lo es devuleve la cadena
     """
     if a.isdigit():
         return int(a)
